@@ -6,7 +6,7 @@ tl;dr
 
 Timings in µs on my MacBook Air:
 
-!assets/graph.png!
+<img src="assets/graph.png">
 
 (remember—graphs have logrithmic Y axes—the actual difference is _significant_)
 
