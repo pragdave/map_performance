@@ -6,14 +6,9 @@ tl;dr
 
 Timings in µs on my MacBook Air:
 
-```
-SIZE           10     100    1000   10000            10     100    1000   10000
+!assets/graph.png!
 
-      insertion                                access
-Map             6     123    4281  360981             7      34     694   38147
-HashDict        4      41     525    9659             5      40     430    4583
-```
-
+(remember—graphs have logrithmic Y axes—the actual difference is _significant_)
 
 ```
 Insertion into Elixir.Map. 10 entries
