@@ -8,7 +8,7 @@ Timings in µs on my MacBook Air:
 
 <img src="assets/graph.png">
 
-(remember—graphs have logrithmic Y axes—the actual difference is _significant_)
+(remember—graphs have logarithmic Y axes—the actual difference is _significant_)
 
 ```
 Insertion into Elixir.Map. 10 entries
